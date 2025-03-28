@@ -1,5 +1,5 @@
 # Seleksi FESMARO
 ## Team
-- Akbar Zaidan
+- Akbar Zaidan Rohman
 - Austin Kane
 - Dave Eugene
