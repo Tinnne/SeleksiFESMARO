@@ -1,12 +1,12 @@
 # Seleksi FESMARO
 
-## Team
+## Team Members
 
 - Akbar Zaidan Rohman
 - Austin Kane
 - Dave Eugene
 
-## FileStructure
+## File Structure
 
 - .gitignore
 - Dataset1.ipynb
@@ -21,3 +21,14 @@
 - Dataset Pertama
   - Dataset Pertama_train.csv
   - Deskripsi Dataset Pertama.pdf
+
+# Libraries
+
+- Dataset 1
+  - pandas
+  - re
+  - contractions
+  - nltk
+  - scikit-learn
+- Dataset 2
+  -
