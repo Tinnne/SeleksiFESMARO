@@ -10,9 +10,9 @@
 
 - .gitignore
 - Dataset1.ipynb
+- Dataset1TF.ipynb
 - Dataset2.ipynb
 - README.md
-- TextClass.ipynb
 - Dataset Kedua
   - Dataset Kedua.csv
   - Dataset Kedua.xlsx
@@ -30,5 +30,4 @@
   - contractions
   - nltk
   - scikit-learn
-- Dataset 2
-  -
+- ## Dataset 2
