@@ -6,6 +6,22 @@
 - Austin Kane
 - Dave Eugene
 
+## Data Introduction
+
+### Dataset 1
+
+Di era digital, ulasan pelanggan menjadi salah satu faktor krusial yang tidak boleh dipandang sebelah mata. Banyak perusahaan melakukan analisis sentimen untuk mencari tahu respon pelanggan terhadap produk/ jasa mereka. Hasil analisis inilah yang kemudian akan menjadi insight untuk mengambil keputusan yang lebih baik kedepannya. Namun, nyatanya faktor volume dan velocity dari ulasan pengguna begitu besar dan cepat yang membuat bisnis susah menganalisis dan belajar dari ulasan tersebut.
+
+Analisis ini bertujuan untuk memahami pola sentimen pengguna Amazon terhadap produk-produk yang dibelinya, serta mengklasifikasikan review ke dalam penilaian positif atau negatif.
+
+### Dataset 2
+
+Pengiriman barang tepat waktu merupakan faktor kepuasan pelanggan. Oleh karena itu, analisis faktor-faktor yang mempengaruhi risiko keterlambatan pengiriman sangat penting untuk meningkatkan kenyamanan pelanggan
+
+Analisis ini bertujuan untuk memahami faktor yang mempengaruhi risiko keterlambatan pengiriman berdasarkan data history. Model prediksi dibuat untuk mengklasifikasikan apakah suatu pengiriman memiliki risiko keterlambatan atau tidak
+
+Analisis ini berfokus pada dataset DataCo Smart Supply Chain (Dataset Kedua) dengan menggunakan metode data exploration, data cleaning, feature transformation, serta pemodelan dengan algoritma machine learning untuk memprediksi risiko keterlambatan pengiriman.
+
 ## File Structure
 
 - .gitignore
@@ -21,13 +37,3 @@
 - Dataset Pertama
   - Dataset Pertama_train.csv
   - Deskripsi Dataset Pertama.pdf
-
-## Libraries
-
-- Dataset 1
-  - pandas
-  - re
-  - contractions
-  - nltk
-  - scikit-learn
-- Dataset 2
