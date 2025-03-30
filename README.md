@@ -8,13 +8,17 @@
 
 ## Data Introduction
 
-### Dataset 1
+### Data Source
+
+https://drive.google.com/drive/folders/1nV11j-FqT-6QaiTNGsJ7mKemqG3XmO_E?usp=drive_link
+
+### Dataset 1: Amazon Reviews
 
 Di era digital, ulasan pelanggan menjadi salah satu faktor krusial yang tidak boleh dipandang sebelah mata. Banyak perusahaan melakukan analisis sentimen untuk mencari tahu respon pelanggan terhadap produk/ jasa mereka. Hasil analisis inilah yang kemudian akan menjadi insight untuk mengambil keputusan yang lebih baik kedepannya. Namun, nyatanya faktor volume dan velocity dari ulasan pengguna begitu besar dan cepat yang membuat bisnis susah menganalisis dan belajar dari ulasan tersebut.
 
 Analisis ini bertujuan untuk memahami pola sentimen pengguna Amazon terhadap produk-produk yang dibelinya, serta mengklasifikasikan review ke dalam penilaian positif atau negatif.
 
-### Dataset 2
+### Dataset 2: DataCo Smart Supply Chain
 
 Pengiriman barang tepat waktu merupakan faktor kepuasan pelanggan. Oleh karena itu, analisis faktor-faktor yang mempengaruhi risiko keterlambatan pengiriman sangat penting untuk meningkatkan kenyamanan pelanggan
 
@@ -29,6 +33,7 @@ Analisis ini berfokus pada dataset DataCo Smart Supply Chain (Dataset Kedua) den
 - Dataset1TF.ipynb
 - Dataset2.ipynb
 - README.md
+- Seleksi FESMARO 2025_Analisis Big Data_Little Einstein.pdf
 - Dataset Kedua
   - Dataset Kedua.csv
   - Dataset Kedua.xlsx
